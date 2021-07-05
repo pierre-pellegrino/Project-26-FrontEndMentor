@@ -44,3 +44,12 @@ Mobile reward menu
 
 Hardest challenge so far.
 I've learned a lot of stuff about using functions, stocking DOM informations, displaying modal.
+
+### Features
+
+- Selects an offer to back
+- Displays the informations of offers one by one
+- Controls if the price entered is correct
+- Shows current total backers number
+- Shows total amount and working progress bar
+- Grey out offers when there's not any left, making it impossible to pledge
