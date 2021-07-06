@@ -53,6 +53,7 @@ const greenBtn = document.querySelectorAll('.modal-launcher');
 greenBtn.forEach(e => {
     e.addEventListener('click', j => {
         document.querySelector('.selection-modal-wrapper').classList.add('openMenu');
+        window.scroll(0,0);
     })
 })
 
